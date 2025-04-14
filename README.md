@@ -47,44 +47,19 @@ Futuramente
 
 <p align="center">
  
-https://github.com/Tauane21/API-Atualizado/assets/141972817/e63af323-7deb-4a43-ac08-230a4ffdb46c
-
 
 ## Sprint 2
-• Foi realizado uma previsão de demanda de produtos para o período de setembro/2023 a agosto/2024
 
-https://github.com/Tauane21/API-Atualizado/assets/141972817/aa4812fd-c92b-4985-93a7-9b0b4f7fdc40
 
 <p align="center">
 
 ## Sprint 3
-• Foi apresentado uma Curva ABC dos itens de Manutenção listados pelo cliente. 
 
-• Sugerimos quais itens o comprador responsável deve focar e o porquê. 
-
-https://github.com/Tauane21/API-Atualizado/assets/141972817/16750bff-dc8f-4ee6-9500-12e2cb76af80
 
 <p align="center">
 
-## Sprint 4
-• Realizamos uma pesquisa de mercado e sugerimos para os sócios da Doce Sabor começarem a produzir salgadinhos de festa. 
-
-https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8688-b19ab5ef08aa
 
 ### Tecnológias Específicas/Apoio
-> Excel
-> 
-> Power Point
-> 
-> Word
-> 
-> Canvas
-> 
-> Davinci Resolve
-> 
-> Photoshop
-> 
-> Adobe Fireworks
 
 ## Sprint 1 - Concepção
 -[x] "Relátorio SWOT"
